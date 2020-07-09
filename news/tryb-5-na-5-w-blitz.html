@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+
+	<meta charset="utf-8">
+	<title>Blitz Info - newsy - tryb 5vs5</title>
+	<meta name="description" content="Strona poświęcona grze o czołgach, czyli WoT Blitz. Znajdziesz tutaj poradniki, nowości, quizy czy czołgi wymyślone przez społeczność! Uczta dla fanów pojazdów pancernych.">
+	<meta name="keywords" content="WoT, WoT Blitz, World of Tanks, Blitz, info, informacje, gra, poradnik, quiz, nowości, news, czołgi, II wojna światowa, historia, pojazd, pancerny">
+	<meta name="author" content="Konrad Nowak">
+	<meta http-equiv="X-Ua-Compatible" content="IE=edge,chrome=1">
+	
+	<link rel="stylesheet" href="../style.css">
+	<link rel="stylesheet" href="../css/fontello.css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&amp;subset=latin-ext">
+
+</head>
+<body>
+
+	<div class="container">
+		
+		<header>
+			<div class="logo">
+				<h1><a href="../index.php"><span class="redtext">Blitz</span> - Info</a></h1>
+			</div>
+			
+			<div class="back">
+				<a href="../news.php" class="anchor"><i class="icon-angle-circled-left"></i> wróć do spisu nowości</a>
+			</div>
+		</header>
+		
+		<header>
+			<div class="contentheader">
+				<a href="https://wotblitz.eu/" target="_blank"><img src="../img/blitzicon.png" alt="logo WoT Blitz" width="33" height="49"></a>
+				
+				<h2><span class="redtext">Bitwy w trybie 5vs5?</span></h2>
+			</div>
+		</header>
+		
+		<main>
+			<div class="articletext">
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vel orci ornare, tempus turpis eget, sagittis nibh. Mauris erat erat, consequat non molestie vitae, tempus at est. Ut eget justo vel est gravida dignissim. Integer eleifend neque ac diam ullamcorper, eget malesuada sapien tempus. Sed consectetur purus id rutrum porta. Quisque imperdiet lacus vitae porta tristique. Nunc et justo imperdiet, suscipit quam et, suscipit metus. Duis posuere metus turpis, sit amet faucibus orci lacinia in. Etiam lobortis porta diam in dictum. Nulla felis orci, suscipit a mauris eget, ultricies pulvinar enim. Curabitur mattis eros vel lacus commodo, id porta tortor ultricies. Donec suscipit rhoncus ligula consequat sodales. Morbi tincidunt diam dignissim nulla placerat, ac venenatis tortor suscipit. Duis vel mauris dolor.</p>
+
+				<p>Proin vel lacus fringilla, efficitur odio ut, blandit eros. Proin pellentesque tincidunt purus in blandit. Proin ullamcorper gravida massa pharetra convallis. Phasellus eget semper libero. Curabitur ut scelerisque ante. Nulla et ex id dui iaculis hendrerit vel ac nulla. Aenean semper feugiat eros, a eleifend neque posuere vitae.</p>
+
+				<p>Vestibulum hendrerit nisi ipsum, non interdum est bibendum eget. Cras ut odio quis lacus finibus vehicula. Vestibulum gravida nisl ut nunc sodales, non placerat magna fermentum. Nulla sodales consectetur dui, sed sollicitudin mi euismod a. Ut varius diam nec urna tristique, vitae convallis mi posuere. Fusce laoreet libero ac libero vestibulum fringilla. Sed ut erat in nulla porta varius.</p>
+			</div>
+		</main>
+	</body>
+</html>
